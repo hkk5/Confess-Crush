@@ -13,4 +13,4 @@ const CONFIG = {
     mess: "Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘",
     messDesc: "Tối nay 7h, câu đi chơi với mình nha😘",
     btnAccept: "Okiiiii lun <3",
-    messLink: "https://hkh5🤞🏻.io
+    messLink: "https://hkh5🤞🏻.io"
