@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "Gửi "cà rốt" ",
     introTitle: 'Crush à',
     introDesc: `Soái ca là của ngôn tình. Còn anh thì chỉ của mình em thôi.`,
     btnIntro: '^^HiHi^^',
@@ -13,4 +13,4 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, câu đi chơi với mình nha😘',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://hkh5/crush
+    messLink: 'https://hkh5/crush.io
