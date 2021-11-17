@@ -1,7 +1,7 @@
 const CONFIG = {
-    titleWeb: "Gửi "cà rốt" ",
+    titleWeb: "Gửi cà rốt ",
     introTitle: 'Crush à',
-    introDesc: `Soái ca là của ngôn tình. Còn anh thì chỉ của mình em thôi.`,
+    introDesc: `Soái ca là của ngôn tình. Còn anh thì chỉ của mình em thôi`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
